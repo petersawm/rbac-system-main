@@ -27,7 +27,7 @@ This project is a simple Role-Based Access Control (RBAC) system implemented usi
 First, clone the repository to your local machine:
 
 ```bash
-git clone 
+git clone https://github.com/petersawm/rbac-system-main
 cd rbac-system
 ```
 ### 2. Install Dependencies
